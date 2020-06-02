@@ -1,0 +1,13 @@
+body{
+    color: greenyellow;
+}
+h1{
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+p{
+    color: red;
+    font-size: 24px;
+}
